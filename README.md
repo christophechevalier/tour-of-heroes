@@ -2,9 +2,9 @@
 
 ```
 git clone https://github.com/christophechevalier/tour-of-heroes.git
-cd toh
+cd /tour-of-heroes
 npm install
-npm start
+ng serve
 ```
 
 # TourOfHeroes
